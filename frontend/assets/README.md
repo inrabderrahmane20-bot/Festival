@@ -1,0 +1,1 @@
+Place event images here. Current sample data uses /assets/event-*.jpg placeholders.

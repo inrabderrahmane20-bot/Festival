@@ -1,0 +1,199 @@
+[
+  {
+    "id": "evt-001",
+    "slug": "debat-les-mondes-de-demain",
+    "title": "Débat — Les mondes de demain",
+    "short_description": "Un débat interdisciplinaire sur les futurs possibles.",
+    "long_description": "<p>Experts, journalistes et chercheurs se réunissent pour discuter des futurs technologiques, écologiques et sociaux.</p>",
+    "category": "debat",
+    "tags": [
+      "avenir",
+      "technologie",
+      "societe"
+    ],
+    "start_datetime": "2025-09-19T18:30:00",
+    "end_datetime": "2025-09-19T20:00:00",
+    "location": {
+      "id": "loc-1",
+      "name": "Auditorium du Monde",
+      "address": "67 Av. Pierre-Mendès-France, 75013 Paris",
+      "geo_lat": 48.828,
+      "geo_lon": 2.356
+    },
+    "image_url": "/assets/event-debat.jpg",
+    "capacity": 250,
+    "ticket_types": [
+      {
+        "id": "tt1",
+        "label": "Plein",
+        "price_cents": 1900,
+        "refundable": false,
+        "available_quantity": 120
+      },
+      {
+        "id": "tt2",
+        "label": "Réduit",
+        "price_cents": 1200,
+        "refundable": false,
+        "available_quantity": 30
+      },
+      {
+        "id": "tt3",
+        "label": "Abonné",
+        "price_cents": 900,
+        "refundable": false,
+        "available_quantity": 50
+      }
+    ],
+    "speakers": [
+      {
+        "id": "sp-1",
+        "name": "Claire Martin",
+        "role": "Modératrice"
+      },
+      {
+        "id": "sp-2",
+        "name": "Dr. Hugo Leroy",
+        "role": "Intervenant"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "evt-002",
+    "slug": "atelier-introduction-a-lia",
+    "title": "Atelier — Introduction à l'IA",
+    "short_description": "Atelier pratique pour comprendre les fondamentaux de l'IA.",
+    "long_description": "<p>Session hands-on qui couvre les bases et des cas d'usage concrets.</p>",
+    "category": "atelier",
+    "tags": [
+      "ia",
+      "atelier",
+      "tech"
+    ],
+    "start_datetime": "2025-09-20T10:00:00",
+    "end_datetime": "2025-09-20T12:00:00",
+    "location": {
+      "id": "loc-2",
+      "name": "Salle des Ateliers",
+      "address": "Parvis Nord, 75013 Paris",
+      "geo_lat": 48.827,
+      "geo_lon": 2.356
+    },
+    "image_url": "/assets/event-ia.jpg",
+    "capacity": 40,
+    "ticket_types": [
+      {
+        "id": "tt1",
+        "label": "Plein",
+        "price_cents": 3500,
+        "refundable": true,
+        "available_quantity": 25
+      },
+      {
+        "id": "tt2",
+        "label": "Étudiant",
+        "price_cents": 2000,
+        "refundable": true,
+        "available_quantity": 5
+      }
+    ],
+    "speakers": [
+      {
+        "id": "sp-3",
+        "name": "Amine Belkacem",
+        "role": "Formateur"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "evt-003",
+    "slug": "visite-exposition-futurismes",
+    "title": "Visite — Exposition Futurismes",
+    "short_description": "Visite guidée de l'exposition 'Futurismes'.",
+    "long_description": "<p>Parcours commenté par la commissaire d'exposition.</p>",
+    "category": "visite",
+    "tags": [
+      "exposition",
+      "visite",
+      "culture"
+    ],
+    "start_datetime": "2025-09-19T14:00:00",
+    "end_datetime": "2025-09-19T15:30:00",
+    "location": {
+      "id": "loc-3",
+      "name": "Galerie Le Monde",
+      "address": "5 Rue des Expositions, 75013 Paris",
+      "geo_lat": 48.829,
+      "geo_lon": 2.358
+    },
+    "image_url": "/assets/event-visite.jpg",
+    "capacity": 60,
+    "ticket_types": [
+      {
+        "id": "tt1",
+        "label": "Gratuit (sur réservation)",
+        "price_cents": 0,
+        "refundable": false,
+        "available_quantity": 30
+      }
+    ],
+    "speakers": [
+      {
+        "id": "sp-4",
+        "name": "Sofia Hernandez",
+        "role": "Conservatrice"
+      }
+    ],
+    "status": "published"
+  },
+  {
+    "id": "evt-004",
+    "slug": "spectacle-nuit-des-idees",
+    "title": "Spectacle — La nuit des idées",
+    "short_description": "Performance multidisciplinary mêlant théâtre et musique.",
+    "long_description": "<p>Création originale par une troupe contemporaine.</p>",
+    "category": "spectacle",
+    "tags": [
+      "theatre",
+      "musique",
+      "spectacle"
+    ],
+    "start_datetime": "2025-09-20T21:00:00",
+    "end_datetime": "2025-09-20T22:30:00",
+    "location": {
+      "id": "loc-1",
+      "name": "Auditorium du Monde",
+      "address": "67 Av. Pierre-Mendès-France, 75013 Paris",
+      "geo_lat": 48.828,
+      "geo_lon": 2.356
+    },
+    "image_url": "/assets/event-spectacle.jpg",
+    "capacity": 300,
+    "ticket_types": [
+      {
+        "id": "tt1",
+        "label": "Plein",
+        "price_cents": 2500,
+        "refundable": false,
+        "available_quantity": 10
+      },
+      {
+        "id": "tt2",
+        "label": "Jeune",
+        "price_cents": 1500,
+        "refundable": false,
+        "available_quantity": 20
+      }
+    ],
+    "speakers": [
+      {
+        "id": "sp-5",
+        "name": "Compagnie Nova",
+        "role": "Artistes"
+      }
+    ],
+    "status": "published"
+  }
+]

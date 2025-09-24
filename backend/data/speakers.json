@@ -1,0 +1,52 @@
+[
+  {
+    "id": "sp-1",
+    "name": "Claire Martin",
+    "short_bio": "Journaliste culturelle.",
+    "bio": "Claire Martin travaille au Monde depuis 2015, spécialiste des questions culturelles et sociétales.",
+    "photo_url": "/assets/sp-claire.jpg",
+    "events": [
+      "evt-001"
+    ]
+  },
+  {
+    "id": "sp-2",
+    "name": "Dr. Hugo Leroy",
+    "short_bio": "Chercheur en prospective.",
+    "bio": "Hugo Leroy est chercheur en prospective et technologies émergentes.",
+    "photo_url": "/assets/sp-hugo.jpg",
+    "events": [
+      "evt-001"
+    ]
+  },
+  {
+    "id": "sp-3",
+    "name": "Amine Belkacem",
+    "short_bio": "Formateur IA.",
+    "bio": "Amine accompagne des équipes techniques et product owners dans la mise en oeuvre d'IA utile.",
+    "photo_url": "/assets/sp-amine.jpg",
+    "events": [
+      "evt-002"
+    ]
+  },
+  {
+    "id": "sp-4",
+    "name": "Sofia Hernandez",
+    "short_bio": "Conservatrice.",
+    "bio": "Commissaire d'expositions spécialisée en art contemporain.",
+    "photo_url": "/assets/sp-sofia.jpg",
+    "events": [
+      "evt-003"
+    ]
+  },
+  {
+    "id": "sp-5",
+    "name": "Compagnie Nova",
+    "short_bio": "Troupe artistique.",
+    "bio": "Collectif de création contemporaine.",
+    "photo_url": "/assets/sp-nova.jpg",
+    "events": [
+      "evt-004"
+    ]
+  }
+]

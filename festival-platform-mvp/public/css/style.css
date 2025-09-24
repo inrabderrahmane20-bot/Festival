@@ -1,0 +1,4 @@
+body { font-family: Arial, Helvetica, sans-serif; margin: 24px; color: #222; }
+header h1 { margin: 0 0 8px 0; }
+.event { border: 1px solid #ddd; padding: 12px; margin-bottom: 12px; border-radius: 6px; }
+.button { display:inline-block; padding:6px 10px; border-radius:4px; background:#0066cc; color:#fff; text-decoration:none; }

@@ -1,0 +1,9 @@
+Design notes / tokens
+---------------------
+Primary: #0f172a (indigo-900)
+Accent: linear-gradient(135deg,#7c3aed,#06b6d4)
+Rounded corners: 12px
+Font: Inter (loaded from Google Fonts in index.html)
+Spacing: 8px baseline grid
+
+Layout: header, hero, content cards with soft shadow, accessible contrast (WCAG AA aim).
